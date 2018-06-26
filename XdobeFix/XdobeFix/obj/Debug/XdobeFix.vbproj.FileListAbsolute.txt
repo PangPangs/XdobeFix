@@ -1,0 +1,11 @@
+D:\win\Desktop\XdobeFix\XdobeFix\bin\Debug\XdobeFix.exe.config
+D:\win\Desktop\XdobeFix\XdobeFix\bin\Debug\XdobeFix.exe
+D:\win\Desktop\XdobeFix\XdobeFix\bin\Debug\XdobeFix.pdb
+D:\win\Desktop\XdobeFix\XdobeFix\bin\Debug\XdobeFix.xml
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.Resources.resources
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.vbproj.GenerateResource.cache
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.vbproj.CoreCompileInputs.cache
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.exe
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.xml
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.pdb
+D:\win\Desktop\XdobeFix\XdobeFix\obj\Debug\XdobeFix.vbprojAssemblyReference.cache
